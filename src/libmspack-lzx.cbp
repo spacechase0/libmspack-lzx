@@ -37,17 +37,8 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="lzx.h" />
-		<Unit filename="lzxd.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="mspack.h" />
-		<Unit filename="readbits.h" />
-		<Unit filename="readhuff.h" />
-		<Unit filename="system.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="system.h" />
+		<Unit filename="Lzx.cpp" />
+		<Unit filename="Lzx.hpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
